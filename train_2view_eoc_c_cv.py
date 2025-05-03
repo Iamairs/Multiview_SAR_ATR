@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-# coder：Xing_z
-# e-mail: zhangxing3212@163.com
 import os
 import numpy as np
 
